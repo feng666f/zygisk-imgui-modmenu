@@ -2,7 +2,7 @@
 #define ZYGISK_IMGUI_MODMENU_GAME_H
 
 // TODO: change this
-#define TargetLibName "libil2cpp.so"
-#define GamePackageName "com.game.packagename"
+#define TargetLibName "libclient.so"
+#define GamePackageName "com.netease.dwrg.m4399"
 
 #endif //ZYGISK_IMGUI_MODMENU_GAME_H
